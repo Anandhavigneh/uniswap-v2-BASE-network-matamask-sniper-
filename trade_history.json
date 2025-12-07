@@ -1,0 +1,1170 @@
+[
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 299.3233234845403,
+    "entry_price": 0.0006681737917103201,
+    "tx_hash": "629417c18bdebc7417a11a2f00c9ca3c39c2100fcb2a78a52a61de46a26560a3",
+    "timestamp": "2025-06-01T18:06:39.253151"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 299.32327836295906,
+    "entry_price": 0.0006681738924343873,
+    "tx_hash": "074e4788748d5f74baca7db7b89934ab2aad3031e27dc3532eb317988e497409",
+    "timestamp": "2025-06-01T18:07:17.438082"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 299.3232332413885,
+    "entry_price": 0.0006681739931584613,
+    "tx_hash": "b5377b4caaeba27e9818da50dad27f895f5bb65567f795dea59e448ab860a1e4",
+    "timestamp": "2025-06-01T18:07:53.499519"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 299.31118419378356,
+    "entry_price": 0.0006682008911184342,
+    "tx_hash": "6f30480fdbc2c001104dbadb36425c0b2da2b0b7df5848f3ab6f1872dcf20a5b",
+    "timestamp": "2025-06-01T18:08:33.192642"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 299.3111390749499,
+    "entry_price": 0.000668200991844538,
+    "tx_hash": "9ce48014efeb779dd12c7876e70c00f363fa0311bbc4606501f9f56c25709116",
+    "timestamp": "2025-06-01T18:09:09.273502"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 299.3110939561269,
+    "entry_price": 0.0006682010925706484,
+    "tx_hash": "16bfaa1bec481042dbab5ed61efad3d1f47d9481500698670b33ba6392595736",
+    "timestamp": "2025-06-01T18:09:43.270875"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 300.5335705478845,
+    "entry_price": 0.0006654830594645122,
+    "tx_hash": "67a4238431949a1ed89896779b0d98228982f6493dcd52d1081a86c0254430a4",
+    "timestamp": "2025-06-01T18:27:06.185450"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 601.0651535864404,
+    "entry_price": 0.00033274262999050667,
+    "tx_hash": "83661052a31b0a49824b42d1506aeb6755fb14c51dbb8f92e320b5cb081bfa0f",
+    "timestamp": "2025-06-01T18:32:21.241075"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 901.5947491353933,
+    "entry_price": 0.00022182915349916907,
+    "tx_hash": "44141f44bb50107bc5a358618af64753506ced68258db6521ecb7a1793fce16a",
+    "timestamp": "2025-06-01T18:41:43.218187"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 901.5947491353933,
+    "tx_hash": "cdaf9112ddf51ec2ab05bbe66a942b979f214bda12518e1fe36ebf6b99a548fa",
+    "timestamp": "2025-06-01T18:43:00.742411",
+    "trigger": "tsl"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 300.53343436264805,
+    "entry_price": 0.0006654833610248628,
+    "tx_hash": "d4cbde08057abd36bd2e53183729a7504d33097e87825bef2a74c63f6a23993c",
+    "timestamp": "2025-06-01T18:45:23.545684"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 300.53343436264805,
+    "tx_hash": "2411febbf5e7e6b37ab305a2aa02f16dde720f5dfa16e6e4e2ead34c4e629589",
+    "timestamp": "2025-06-01T18:46:25.428330",
+    "trigger": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 317.72466152847545,
+    "entry_price": 0.0006294758456515828,
+    "tx_hash": "a46f13a81a008fc2c4138c5a9b14c103d86e2319bf3de092a083664eb9126c77",
+    "timestamp": "2025-06-02T06:26:21.454612"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 317.72466152847545,
+    "tx_hash": "39e261135c33e48dec9f543165ec70621fec837112d49892de969a2c49cb3cbf",
+    "timestamp": "2025-06-02T06:27:00.995690",
+    "exit_price": 0.0006194476429020249
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 231.80640162307293,
+    "entry_price": 0.0008627889419775754,
+    "tx_hash": "155c3ca6602d6d7c97af69bb752d6fa51641134f4f2b6b37a37579e3f6ae0517",
+    "timestamp": "2025-06-02T06:32:59.526574"
+  },
+  {
+    "type": "sell",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "tokens_sold": 231.80640162307293,
+    "tx_hash": "7024bcf194be0394eb899ebef7a47025260d48b252e1846da0261d4bea1958da",
+    "timestamp": "2025-06-02T06:33:37.546932",
+    "exit_price": 0.000849043813598208
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 231.80637042913267,
+    "entry_price": 0.0008627890580821788,
+    "tx_hash": "cb1fa1685fc2f4d89686752aaaaf8208622e31b4ee570ddb2293fd858e140919",
+    "timestamp": "2025-06-02T06:33:56.663443"
+  },
+  {
+    "type": "sell",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "tokens_sold": 231.80637042913267,
+    "tx_hash": "3c15e5fb8116e1c38db9764facc8b038975a51fc8bbf0653e9983f6caf70184a",
+    "timestamp": "2025-06-02T06:34:56.568505",
+    "exit_price": 0.0008489825227424798
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 317.72461218570066,
+    "entry_price": 0.000629475943409464,
+    "tx_hash": "4a5453daec3a92fba1a7ea116b03c25b2533a489b29573b5cbb59eabbe225302",
+    "timestamp": "2025-06-02T06:36:08.866068"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 317.72461218570066,
+    "tx_hash": "b0961102f841996e3a2163448a4d5e721f18a34697d7fc71626414416000e989",
+    "timestamp": "2025-06-02T06:36:59.457105",
+    "exit_price": 0.0006194477391025186
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 317.72456284293787,
+    "entry_price": 0.0006294760411673518,
+    "tx_hash": "ca73f5717a362a3599fd50c6de77598a399d6d8150465619d6084c8ea35130ca",
+    "timestamp": "2025-06-02T06:59:56.792737"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 317.72456284293787,
+    "tx_hash": "c42e160a57466a6b143ac245b9f2b3f2745e8ded2ef0cb7e9c86be26b4bd527f",
+    "timestamp": "2025-06-02T07:00:10.269199",
+    "exit_price": 0.000619447835303019
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 317.85209309151304,
+    "entry_price": 0.0006292234795585186,
+    "tx_hash": "de4c767999a15efcd97694104e03716dbd6d5a3029b06fcbc4ef88b5b41ed4e5",
+    "timestamp": "2025-06-02T07:21:10.647142"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 317.85209309151304,
+    "tx_hash": "898d139c5326c57bd6aa992be0eef1eb7862c27c8d41d6677701601c8b1fd701",
+    "timestamp": "2025-06-02T07:21:26.150285",
+    "exit_price": 0.0006191992972691549
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 316.2173149955672,
+    "entry_price": 0.0006324764347670324,
+    "tx_hash": "e949ed3b651367a8fa0194c73114323ebccc1b43a5894c6bd295aa48b779ddbb",
+    "timestamp": "2025-06-02T08:54:08.123898"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 316.2173149955672,
+    "tx_hash": "3f8624a8a668622fd5fe04b42e35275e8cdb409b19092c314a6b4e997ed3bd65",
+    "timestamp": "2025-06-02T08:54:28.119236",
+    "exit_price": 0.0006224004294420609
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 316.2172660037313,
+    "entry_price": 0.0006324765327571963,
+    "tx_hash": "b020fe5408f5fd6d35ce70632ee51f76128ac585819c3202a4634c9001ccc34a",
+    "timestamp": "2025-06-02T08:59:06.290818"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 316.2172660037313,
+    "tx_hash": "8cc8578995828ed6264f8b6fb235056ce176593773633ad2cccc4b5cc66792d5",
+    "timestamp": "2025-06-02T08:59:35.144205",
+    "exit_price": 0.0006224005258711368
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 316.2172170119072,
+    "entry_price": 0.0006324766307473669,
+    "tx_hash": "1098f16a2a4307da0c8366f0d78d91e507b9bb23c486a8d5ae4564635f1ee386",
+    "timestamp": "2025-06-02T09:13:12.545241"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 316.2172170119072,
+    "tx_hash": "b7e26b7477fb86999ee4050ba5415628fbb74ad77d2a9b242d179f4c97c07715",
+    "timestamp": "2025-06-02T09:13:51.738492",
+    "exit_price": 0.0006224006223002196
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 316.217168020095,
+    "entry_price": 0.000632476728737544,
+    "tx_hash": "c2ffef56f47ffc8ef0ec297bb7e6a5f55e3fae28e5dd1e4e9e0d64048a0e8047",
+    "timestamp": "2025-06-02T09:14:12.652871"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 316.217168020095,
+    "tx_hash": "954b6a8c640f3e721b8f1f0ec0210db754027e24b6a465143f20a52e0db0e951",
+    "timestamp": "2025-06-02T09:14:45.929921",
+    "exit_price": 0.0006224007187293085
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 316.2171190282947,
+    "entry_price": 0.0006324768267277278,
+    "tx_hash": "cd2453f8d70f102d8a9a2574691a4ace16a3cbe36e9935a072e282b9ba2802e4",
+    "timestamp": "2025-06-02T09:26:35.090089"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 316.2171190282947,
+    "tx_hash": "98b927582614a72fd6a8e963d36f7b1ef69a859f75245445132b5c1b831fcd13",
+    "timestamp": "2025-06-02T09:27:03.904567",
+    "exit_price": 0.0006224008151584043,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 235.56972892500391,
+    "entry_price": 0.0008490055191415197,
+    "tx_hash": "f616c06c29e84573833a6e18e4adef09100ddbb9854b77d038afae882f0c0970",
+    "timestamp": "2025-06-02T09:28:18.730858"
+  },
+  {
+    "type": "sell",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "tokens_sold": 235.56972892500391,
+    "tx_hash": "e69db3e2c6eb6c54db6392d0ddf191c0673a35572f2d07a91b93e0c1a884e09d",
+    "timestamp": "2025-06-02T09:28:41.556334",
+    "exit_price": 0.0008349452442010996,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 235.72056446966772,
+    "entry_price": 0.0008484622478737352,
+    "tx_hash": "e131e34891e26e3bb2ce277445a69197b1f3a5c5686260ddb24c481600fdb807",
+    "timestamp": "2025-06-02T09:28:57.025172"
+  },
+  {
+    "type": "sell",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "tokens_sold": 235.72056446966772,
+    "tx_hash": "63e669914af9ec3a91e815675adc9c3c0800a7d825cd2595292154dcef85949b",
+    "timestamp": "2025-06-02T09:29:30.610807",
+    "exit_price": 0.000835798916446385,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 235.47195593292892,
+    "entry_price": 0.0008493580443905064,
+    "tx_hash": "6120be09d8c1804c249e6ec4ed158c224af27b3b2a7d4bf0cf6fc7ff78d76322",
+    "timestamp": "2025-06-02T09:31:02.459428"
+  },
+  {
+    "type": "sell",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "tokens_sold": 235.47195593292892,
+    "tx_hash": "51ed62df171eb514ee0fdb771b907e5c57242fac4ee0f5928db28f8540c061b2",
+    "timestamp": "2025-06-02T09:32:01.635297",
+    "exit_price": 0.0008358268845235432,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 316.21707003650624,
+    "entry_price": 0.0006324769247179181,
+    "tx_hash": "36e7449a0e2a96ef12cf724f0b177d5ceda6ded81d40dfa722457444a3e4f071",
+    "timestamp": "2025-06-02T09:33:55.721364"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 316.21707003650624,
+    "tx_hash": "8f6d1d245f534d3377623326f8ea6488853126b25b3c1e986acb716e44f84e79",
+    "timestamp": "2025-06-02T09:34:37.701979",
+    "exit_price": 0.0006224009115875063,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "virtual_spent": 2.0,
+    "tokens_bought": 4062.42980348016,
+    "entry_price": 0.0004923161991098679,
+    "tx_hash": "1fe55df21fb3ac93bf2574e69e9b7dd1c43e76b937f26c0a842a05526e662cf9",
+    "timestamp": "2025-06-02T10:32:16.883115"
+  },
+  {
+    "type": "sell",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "tokens_sold": 4062.42980348016,
+    "tx_hash": "c8c85a45ce00393f6c32ae5454e33b5156e601338903ef4485e1515e789fc2eb",
+    "timestamp": "2025-06-02T10:32:43.513696",
+    "exit_price": 0.0004262741969902281,
+    "reason": "sl"
+  },
+  {
+    "type": "buy",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "virtual_spent": 1.5,
+    "tokens_bought": 3106.0006231859097,
+    "entry_price": 0.00048293615551867113,
+    "tx_hash": "9c279c42ba2c6969bc8369ad11a3a2423fcf6f490a60545668d55c89760336eb",
+    "timestamp": "2025-06-02T10:35:04.271266"
+  },
+  {
+    "type": "sell",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "tokens_sold": 3106.0006231859097,
+    "tx_hash": "9be4690afbf616ba65efea398910913d84df243150aff6d2a84c8aad3434b195",
+    "timestamp": "2025-06-02T10:36:04.043992",
+    "exit_price": 0.00043183798704369257,
+    "reason": "sl"
+  },
+  {
+    "type": "buy",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "virtual_spent": 1.5,
+    "tokens_bought": 3116.522754953777,
+    "entry_price": 0.0004813056466909215,
+    "tx_hash": "c0db9b134da36afc2ca10526967202de0a7542c0889fa271208c8ed5f77ff13d",
+    "timestamp": "2025-06-02T10:36:38.916214"
+  },
+  {
+    "type": "buy",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "virtual_spent": 0.2,
+    "tokens_bought": 472.9008913635269,
+    "entry_price": 0.00042292159658091367,
+    "tx_hash": "21b2e0823998faf5f19c5eea22bb42c878c12f45ce0b77be74a60babb3056a08",
+    "timestamp": "2025-06-02T16:17:17.911727"
+  },
+  {
+    "type": "sell",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "tokens_sold": 472.9008913635269,
+    "tx_hash": "4ddeafb21115ae9d8af555b1beca95b21da65061bf84404ed2eb412260decf72",
+    "timestamp": "2025-06-02T16:17:57.520703",
+    "exit_price": 0.00041618402259753436,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "virtual_spent": 0.2,
+    "tokens_bought": 491.34437259608734,
+    "entry_price": 0.00040704648542787167,
+    "tx_hash": "f45916a773cc4f8ccd63bcbdb0eb4726a86e5ec43ae3251d53117b4411448609",
+    "timestamp": "2025-06-02T16:35:46.164668"
+  },
+  {
+    "type": "sell",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "tokens_sold": 491.34437259608734,
+    "tx_hash": "38fc582b791fda159260d002195c15e6313980772daf3a6776259b529339e371",
+    "timestamp": "2025-06-02T16:36:00.109274",
+    "exit_price": 0.0004005618187349073,
+    "reason": "tsl"
+  },
+  {
+    "type": "buy",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "virtual_spent": 0.2,
+    "tokens_bought": 488.00159533954604,
+    "entry_price": 0.0004098347257673251,
+    "tx_hash": "b1f4e6fdd3bb4dbf18f05c33485b56a01f04c399447b1d01c07a48148e2e3a2f",
+    "timestamp": "2025-06-02T16:47:37.740794"
+  },
+  {
+    "type": "buy",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "virtual_spent": 0.2,
+    "tokens_bought": 975.9990052664407,
+    "entry_price": 0.00020491824163837284,
+    "tx_hash": "0c492ff552ff701143449c6af7946107e5b39558f757fb19346fc52125a92fa3",
+    "timestamp": "2025-06-02T16:48:17.557392"
+  },
+  {
+    "type": "buy",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "virtual_spent": 0.2,
+    "tokens_bought": 1461.6771387773967,
+    "entry_price": 0.00013682912231033985,
+    "tx_hash": "94496d8f9872859012f32782e2ddae1b5baccd1b7d5eefd3667949d1254fa7cc",
+    "timestamp": "2025-06-02T16:49:19.815886"
+  },
+  {
+    "type": "buy",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "virtual_spent": 0.2,
+    "tokens_bought": 1.1674219766665241,
+    "entry_price": 0.1713176589077784,
+    "tx_hash": "f65ba9b319b513339cae54d7032980194cbce0df14ad85d4c165e9fa8d7785af",
+    "timestamp": "2025-06-02T17:00:41.935423"
+  },
+  {
+    "type": "sell",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "tokens_sold": 1.1674219766665241,
+    "tx_hash": "017d8679ef09e13e54c33dfaef71ad66bbc60f77f1cc0c87b44f8417b6b09d66",
+    "timestamp": "2025-06-02T17:00:57.543293",
+    "exit_price": 0.0004314549620594797,
+    "reason": "sl"
+  },
+  {
+    "type": "buy",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "virtual_spent": 0.2,
+    "tokens_bought": 2390.449144721854,
+    "entry_price": 8.36662852425047e-05,
+    "tx_hash": "162f632187adb4f6216ed2cd23286e8542e7c7ea13900f9027cb3694206f2c86",
+    "timestamp": "2025-06-02T17:12:10.416737"
+  },
+  {
+    "type": "sell",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "tokens_sold": 2390.449144721854,
+    "tx_hash": "e43c28cc60434612c2f74c7c9a09ff0857628fed8299c40e4a20bbf35f5072a9",
+    "timestamp": "2025-06-02T17:12:27.910254",
+    "exit_price": 0.00041540955940401296,
+    "reason": "tp"
+  },
+  {
+    "type": "buy",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "virtual_spent": 0.2,
+    "tokens_bought": 473.82469842779585,
+    "entry_price": 0.00042209703433278745,
+    "tx_hash": "e8add7a360a9f5bd96cf61298f7d0af92f6b1e0e91fb96a773bd00badb2e7660",
+    "timestamp": "2025-06-02T17:22:19.575966"
+  },
+  {
+    "type": "sell",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "tokens_sold": 473.82469842779585,
+    "tx_hash": "6c0b0ee4b6f7c1d7989b08f96223efed2da3a20aee762682f92121e5d51d0767",
+    "timestamp": "2025-06-02T17:24:01.715538",
+    "exit_price": 0.00041539716682268974,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "virtual_spent": 0.2,
+    "tokens_bought": 474.74468373719856,
+    "entry_price": 0.0004212790724176129,
+    "tx_hash": "72889bce991ca343db344de2c23ab659e735754289a10728cf29d7ef6c8a19e2",
+    "timestamp": "2025-06-02T17:24:17.544943"
+  },
+  {
+    "type": "sell",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "tokens_sold": 474.74468373719856,
+    "tx_hash": "8425850ec4ac42b331522afa6943eb1074868fb3433d59726ec8277e708c47e5",
+    "timestamp": "2025-06-02T17:25:40.421385",
+    "exit_price": 0.0004147484087654026,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "virtual_spent": 0.2,
+    "tokens_bought": 477.3713475939365,
+    "entry_price": 0.0004189610478468113,
+    "tx_hash": "aeb59a4907103015cb5c5fa128025e5167fd91912f88797bb05c7fcb1b1e58e9",
+    "timestamp": "2025-06-02T17:39:40.796558"
+  },
+  {
+    "type": "sell",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "tokens_sold": 477.3713475939365,
+    "tx_hash": "1fc9c76ea6df7b6c003ec4202fa8cc3833ed74144cbfc7fb175166bc3da6a4a8",
+    "timestamp": "2025-06-02T17:40:26.533090",
+    "exit_price": 0.00041226931271151114,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "virtual_spent": 0.2,
+    "tokens_bought": 471.6399704818319,
+    "entry_price": 0.00042405226977619835,
+    "tx_hash": "258ce37dd63273a47aa2b868bf0fd040a5b99e88430258deaf2a6636c8fe5932",
+    "timestamp": "2025-06-03T07:55:38.400489"
+  },
+  {
+    "type": "sell",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "tokens_sold": 471.6399704818319,
+    "tx_hash": "0af89433c60f4a52022573372d0a8a93cbcad4685dc84a4d2887efa5947d3071",
+    "timestamp": "2025-06-03T07:56:07.454632",
+    "exit_price": 0.00041729668293671656,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "virtual_spent": 0.2,
+    "tokens_bought": 477.665012925287,
+    "entry_price": 0.00041870347332992254,
+    "tx_hash": "c7da4f8f17e5dc5bce7418b7be20c161df6943b7554503fce00c17068a76bb37",
+    "timestamp": "2025-06-03T08:40:44.069021"
+  },
+  {
+    "type": "sell",
+    "pair": "JARVIS/VIRTUAL",
+    "token_address": "0x1E562BF73369D1d5B7E547b8580039E1f05cCc56",
+    "tokens_sold": 477.665012925287,
+    "tx_hash": "552092becc60fe7b59d0bfedc319670b5d32ac844d76403dc4803e573924e7da",
+    "timestamp": "2025-06-03T08:41:56.924257",
+    "exit_price": 0.00041203309846998153,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 645.4514017385134,
+    "entry_price": 0.00030986066412018486,
+    "tx_hash": "41f18282c18a7c327616ad8c8d67452a2c8109add8ec142db4043dc75bc9e56b",
+    "timestamp": "2025-06-03T10:45:52.082716"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 645.4514017385134,
+    "tx_hash": "d7b486b23a39ef35d0b6574c46f6d7e3a319877fb38a61d9f4951c10c11a6f10",
+    "timestamp": "2025-06-03T10:46:18.742512",
+    "exit_price": 0.0005901695647940262,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 384.00136036584644,
+    "entry_price": 0.0005208314882256033,
+    "tx_hash": "d15bbb081ecc6969b4e72e2856182e5c3a4030a3b979765a1af4ed12f88b99d5",
+    "timestamp": "2025-06-03T14:49:38.302754"
+  },
+  {
+    "type": "sell",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "tokens_sold": 384.00136036584644,
+    "tx_hash": "976b87ecb3ad7866ad222ebb50e72714d7f59cc7ff8a3752826c670be1ea492b",
+    "timestamp": "2025-06-03T14:50:17.125114",
+    "exit_price": 0.0005125341058505468,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "ASYNC/VIRTUAL",
+    "token_address": "0x02cb6968877A3a40A5D918af0AeCc3481bFc0434",
+    "virtual_spent": 9.0,
+    "tokens_bought": 5270.730464362409,
+    "entry_price": 0.0017075432069335978,
+    "tx_hash": "995c69e6a44adf9fbd325a991a985dd0406a0846e92a608bc757a089de94a221",
+    "timestamp": "2025-06-03T15:02:55.081566"
+  },
+  {
+    "type": "sell",
+    "pair": "ASYNC/VIRTUAL",
+    "token_address": "0x02cb6968877A3a40A5D918af0AeCc3481bFc0434",
+    "tokens_sold": 5270.730464362409,
+    "tx_hash": "a062c6b0b1a2ca47698277936228c811d8c6e7f8922ac08b29990658859ba529",
+    "timestamp": "2025-06-03T15:03:21.883002",
+    "exit_price": 0.0014435728331651037,
+    "reason": "sl"
+  },
+  {
+    "type": "buy",
+    "pair": "ASYNC/VIRTUAL",
+    "token_address": "0x02cb6968877A3a40A5D918af0AeCc3481bFc0434",
+    "virtual_spent": 7.0,
+    "tokens_bought": 3838.8401794063293,
+    "entry_price": 0.0018234674205901793,
+    "tx_hash": "af3423d6eb5c40c1fd4576465cb7b005ce573957289b040e6b849365e67755ca",
+    "timestamp": "2025-06-03T15:04:24.332688"
+  },
+  {
+    "type": "sell",
+    "pair": "ASYNC/VIRTUAL",
+    "token_address": "0x02cb6968877A3a40A5D918af0AeCc3481bFc0434",
+    "tokens_sold": 3838.8401794063293,
+    "tx_hash": "1a13d6948b2dc4454bcf82bb4f06f744f7d7a0da647486a1efb2c188574c15fb",
+    "timestamp": "2025-06-03T15:04:55.953453",
+    "exit_price": 0.00196796661962602,
+    "reason": "tsl"
+  },
+  {
+    "type": "buy",
+    "pair": "ASYNC/VIRTUAL",
+    "token_address": "0x02cb6968877A3a40A5D918af0AeCc3481bFc0434",
+    "virtual_spent": 7.0,
+    "tokens_bought": 3624.185221837901,
+    "entry_price": 0.0019314686119850553,
+    "tx_hash": "e6bfc4ce86bfd71bbf24a72e48636be4b2876baf1a63d1a9ff4190d7588cd26d",
+    "timestamp": "2025-06-03T15:06:12.710616"
+  },
+  {
+    "type": "sell",
+    "pair": "ASYNC/VIRTUAL",
+    "token_address": "0x02cb6968877A3a40A5D918af0AeCc3481bFc0434",
+    "tokens_sold": 3624.185221837901,
+    "tx_hash": "8828e057e369fcfb6961a44b1639fd81c800256dc4932a1e1d0315225043a2a1",
+    "timestamp": "2025-06-03T15:07:27.115656",
+    "exit_price": 0.0017356921227956157,
+    "reason": "sl"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 331.47501149377746,
+    "entry_price": 0.000603363732001121,
+    "tx_hash": "8a908487deaca24eca451369af67a11afe75b1f8e25d227c22f449c610219698",
+    "timestamp": "2025-06-04T07:18:29.431188"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 331.47501149377746,
+    "tx_hash": "a6eef9caeb880fe05691778759bd5ea9b01f131f9512830e24c32e334d2c4d85",
+    "timestamp": "2025-06-04T07:18:56.669503",
+    "exit_price": 0.0005937515229672243,
+    "reason": "sl"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 331.47495893374617,
+    "entry_price": 0.0006033638276729531,
+    "tx_hash": "37d7193e3c0f7c961127c32ac3bf4ca7a192433c90b6c575dec0ac64c25ca87b",
+    "timestamp": "2025-06-04T07:19:40.370089"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 331.47495893374617,
+    "tx_hash": "d6c14414f1a4f5c0a9c449363562bd760082398e367535a8df5c6e8fd7d893e4",
+    "timestamp": "2025-06-04T07:20:06.836637",
+    "exit_price": 0.0005937516171149021,
+    "reason": "sl"
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 388.62984922808954,
+    "entry_price": 0.0005146285093572898,
+    "tx_hash": "1601dfe3daa18751022ecff90f3b95defbf0a479893cebdd2836e86aeca49b6b",
+    "timestamp": "2025-06-04T07:20:46.833635"
+  },
+  {
+    "type": "sell",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "tokens_sold": 388.62984922808954,
+    "tx_hash": "c220c6426cc84f4c8cd72a2529aad1a5e5762beffa945227d82322b8ccfbca49",
+    "timestamp": "2025-06-04T07:21:06.570598",
+    "exit_price": 0.0005064299469882432,
+    "reason": "sl"
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 388.55976277708066,
+    "entry_price": 0.0005147213354532063,
+    "tx_hash": "fbacc1870e7517790c82e642a4aab0447b8b70f80b0a0e5a0f5bef2c3ae34319",
+    "timestamp": "2025-06-04T08:13:13.222056"
+  },
+  {
+    "type": "sell",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "tokens_sold": 388.55976277708066,
+    "tx_hash": "5ff97d3f6c6236e5c247de1dfc4615960b45d93bec5eeb5f0c2368b01b06465a",
+    "timestamp": "2025-06-04T08:14:12.583491",
+    "exit_price": 0.0005065212942660373,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 388.55969527821554,
+    "entry_price": 0.0005147214248683114,
+    "tx_hash": "90f0360e39737d22022eab1fe35dc2ac56382e6ca9a20f4c40f6aa1735e009e9",
+    "timestamp": "2025-06-04T08:15:15.284645"
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 388.5596277793687,
+    "entry_price": 0.0005147215142834233,
+    "tx_hash": "b200ca2dd18b2622df92f34495a93be584d6171c05108e68c0dbe0a7edaf7938",
+    "timestamp": "2025-06-04T08:20:20.398849"
+  },
+  {
+    "type": "sell",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "tokens_sold": 388.5596277793687,
+    "tx_hash": "33f67c52be2b858f2b62e8134b77a42320a891881ff9d8fd0e11d3eeee1c639e",
+    "timestamp": "2025-06-04T08:20:46.541913",
+    "exit_price": 0.0005065214702472988,
+    "reason": "sl"
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 388.7211797559949,
+    "entry_price": 0.0005145075967446448,
+    "tx_hash": "bef9b9f6fa587425462f44e79fd501497813368a67eaf1f86356b9afe2723b5c",
+    "timestamp": "2025-06-04T08:22:32.528764"
+  },
+  {
+    "type": "sell",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "tokens_sold": 388.7211797559949,
+    "tx_hash": "5e44be60c827fcf610ed71d358eb599b25fbe5d79992a909a621358627e6a9c6",
+    "timestamp": "2025-06-04T08:22:56.650060",
+    "exit_price": 0.0005063109606416861,
+    "reason": "sl"
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 388.7211122150879,
+    "entry_price": 0.0005145076861411521,
+    "tx_hash": "51944ffc97af30f52d57391d5b45e867ccb88405228d2a2a1dedff668367ddae",
+    "timestamp": "2025-06-04T08:29:19.856510"
+  },
+  {
+    "type": "sell",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "tokens_sold": 388.7211122150879,
+    "tx_hash": "a33af9a8985436a420db9034cfed0427231f6cf59082c0a8f076a0b02f1abcf8",
+    "timestamp": "2025-06-04T08:33:27.384925",
+    "exit_price": 0.0,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 388.879439440858,
+    "entry_price": 0.000514298211002273,
+    "tx_hash": "53b896106ee2ce04b020db16f8091c61dc6999cc0ab27799883fc58a712156f2",
+    "timestamp": "2025-06-04T08:51:16.325380"
+  },
+  {
+    "type": "sell",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "tokens_sold": 388.879439440858,
+    "tx_hash": "9af5e208ac589abad7fcbf670ce0148f29576bd96a6ef8c1a3735195c11e4c3f",
+    "timestamp": "2025-06-04T08:52:33.108166",
+    "exit_price": 0.0005061049106361577,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 0.0,
+    "entry_price": 0.0,
+    "tx_hash": "a8a3b3a358a39ea48d3bf2171be27153a280dd05d0ec3ae1a88d3e9d596eccdb",
+    "timestamp": "2025-06-04T08:53:21.887249"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 331.41102718963,
+    "entry_price": 0.0006034802212105093,
+    "tx_hash": "c18d451d3b156733b8c217819396581d357830367ddcb9fc77b3f2a4a1352398",
+    "timestamp": "2025-06-04T08:58:42.241159"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 331.41102718963,
+    "tx_hash": "59febec107004934428ef24cc46013ea0fe99b6942e045738de6c281611b53c9",
+    "timestamp": "2025-06-04T08:59:06.817498",
+    "exit_price": 0.0005938661563793687,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 777.7557848242479,
+    "entry_price": 0.00025715012848820493,
+    "tx_hash": "569d6f0e46072fa9bbc79c82449b00d13857d5141baba18a35d67ec9ccb6549b",
+    "timestamp": "2025-06-04T09:00:04.596635"
+  },
+  {
+    "type": "sell",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "tokens_sold": 777.7557848242479,
+    "tx_hash": "f18845e687ab2ced33e7e2cc5f3e227a9b498fd4b2ee160b64d78e07198576a5",
+    "timestamp": "2025-06-04T09:01:07.131859",
+    "exit_price": 0.0005061069518434394,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 388.8792366949914,
+    "entry_price": 0.0005142984791365075,
+    "tx_hash": "e73c9383ce29436a25b5a13eeda7cd90042c7db362346a2f361eaf6ac7422cb5",
+    "timestamp": "2025-06-04T09:01:54.563498"
+  },
+  {
+    "type": "sell",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "tokens_sold": 388.8792366949914,
+    "tx_hash": "24fc2ab2bd632469ce94e2bfc84050a9986b85e488d19a89ca5b704069e4dac0",
+    "timestamp": "2025-06-04T09:02:06.717830",
+    "exit_price": 0.0005061051744987287,
+    "reason": "sl"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 331.4109746453587,
+    "entry_price": 0.000603480316890589,
+    "tx_hash": "fcef6089b5b16ecb1e41e03931646ed6714200d66332a9cd177f7f5aebfa58b5",
+    "timestamp": "2025-06-04T09:06:48.341640"
+  },
+  {
+    "type": "buy",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "virtual_spent": 0.2,
+    "tokens_bought": 332.38280604599515,
+    "entry_price": 0.0006017158419810801,
+    "tx_hash": "051fb00f73e57e4999dc2df1cee14c9330b339307024944feaa1a3213799719d",
+    "timestamp": "2025-06-04T09:48:04.762981"
+  },
+  {
+    "type": "sell",
+    "pair": "SUPER/VIRTUAL",
+    "token_address": "0xC797Fc5Ca8eF5502aaa0307B9bfC45E877d6Caf5",
+    "tokens_sold": 332.38280604599515,
+    "tx_hash": "796fc7eadcd7a697d99904223e1e1c97d03d7be18f2653444534c0e12095cac6",
+    "timestamp": "2025-06-04T09:48:16.419099",
+    "exit_price": 0.0005921298855860536,
+    "reason": "sl"
+  },
+  {
+    "type": "buy",
+    "pair": "ASYNC/VIRTUAL",
+    "token_address": "0x02cb6968877A3a40A5D918af0AeCc3481bFc0434",
+    "virtual_spent": 0.2,
+    "tokens_bought": 84.82771989970448,
+    "entry_price": 0.0023577198613433056,
+    "tx_hash": "f521b6fadbdc196f9462a79453f5719eb4ff71b18d835e7f41dceb2531e4bd57",
+    "timestamp": "2025-06-04T09:52:15.031533"
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 402.6389068908906,
+    "entry_price": 0.0004967229857252647,
+    "tx_hash": "46e6766411a5446f15eb961a645acfbb40335face830042270b7d89f4afdd0c0",
+    "timestamp": "2025-06-04T09:57:24.600532"
+  },
+  {
+    "type": "buy",
+    "pair": "VGM/VIRTUAL",
+    "token_address": "0x1Ca71f95B222B98C36a25f09E593b81d250B1F2E",
+    "virtual_spent": 0.2,
+    "tokens_bought": 402.6306041364485,
+    "entry_price": 0.0004967332287841227,
+    "tx_hash": "98383d0c670b848f83eff1f1d978d0c14f65101bef4dc75c690a6d1dfd5512c6",
+    "timestamp": "2025-06-04T10:16:46.386927"
+  },
+  {
+    "type": "buy",
+    "pair": "ERM/VIRTUAL",
+    "token_address": "0x31F2bd5087B75e78C6ED69c097049E6350710243",
+    "virtual_spent": 7.0,
+    "tokens_bought": 2686.592569826048,
+    "entry_price": 0.002605530916231648,
+    "tx_hash": "29e3e498122f97893f7d6e3c8800cc42eb04959244eb84da6aa021ea283be6b2",
+    "timestamp": "2025-06-04T11:02:28.591011"
+  },
+  {
+    "type": "sell",
+    "pair": "ERM/VIRTUAL",
+    "token_address": "0x31F2bd5087B75e78C6ED69c097049E6350710243",
+    "tokens_sold": 2686.592569826048,
+    "tx_hash": "2aaf2a69ad75df35e24aa3b0351f6f21701edba07b393c9587ae21981b0350bd",
+    "timestamp": "2025-06-04T11:05:29.951869",
+    "exit_price": 0.0027941604378213646,
+    "reason": "tsl"
+  },
+  {
+    "type": "buy",
+    "pair": "MOZAIQ/VIRTUAL",
+    "token_address": "0xd4fF52fCe68876bF8D73a1e1bbA24e13D2CDAB43",
+    "virtual_spent": 9.0,
+    "tokens_bought": 23310.388705177123,
+    "entry_price": 0.0003860939478028157,
+    "tx_hash": "99379c0a375730b483c2f1e3dae695407e685ceae055f69755a6df93219963fb",
+    "timestamp": "2025-06-05T05:02:30.544373"
+  },
+  {
+    "type": "sell",
+    "pair": "MOZAIQ/VIRTUAL",
+    "token_address": "0xd4fF52fCe68876bF8D73a1e1bbA24e13D2CDAB43",
+    "tokens_sold": 23310.388705177123,
+    "tx_hash": "d3525c69db46bfa310987034e37f63f6ac010fd4fb833dddca4d5ce8673a8633",
+    "timestamp": "2025-06-05T05:20:20.839524",
+    "exit_price": 0.00017566469027663052,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "ARTS/VIRTUAL",
+    "token_address": "0x0A455245148FA54129d8266f5D8742DD0D05f0c6",
+    "virtual_spent": 5.0,
+    "tokens_bought": 8948.841332064647,
+    "entry_price": 0.0005587315513221214,
+    "tx_hash": "92d8946355ecdbe7f33d9470d5ffa2245672403d59c79fd44477bff49d1f77d2",
+    "timestamp": "2025-06-08T13:09:33.395516"
+  },
+  {
+    "type": "sell",
+    "pair": "ARTS/VIRTUAL",
+    "token_address": "0x0A455245148FA54129d8266f5D8742DD0D05f0c6",
+    "tokens_sold": 8948.841332064647,
+    "tx_hash": "53fcb84a96c35e2cff3c15bf064db26369c58dcef4963d6a2a7475b26b664e87",
+    "timestamp": "2025-06-08T13:29:42.250578",
+    "exit_price": 0.0006732710912910627,
+    "reason": "manual"
+  },
+  {
+    "type": "buy",
+    "pair": "SS/VIRTUAL",
+    "token_address": "0xa2d4Aec94BA0896d95ccC5451C9525b9ec0314De",
+    "virtual_spent": 5.0,
+    "tokens_bought": 12569.71335853725,
+    "entry_price": 0.000397781545002698,
+    "tx_hash": "a3742a944d6467d79b8e9a2ed50e5e16b57abda61a15eb8aed9dd0794e6ad106",
+    "timestamp": "2025-06-08T14:02:33.257171"
+  },
+  {
+    "type": "sell",
+    "pair": "SS/VIRTUAL",
+    "token_address": "0xa2d4Aec94BA0896d95ccC5451C9525b9ec0314De",
+    "tokens_sold": 12569.71335853725,
+    "tx_hash": "392d4ffcc37c6d7e7d94eaa4481613ca22f0254fa91f0e0717379897a3d80353",
+    "timestamp": "2025-06-08T14:03:04.725345",
+    "exit_price": 0.0003458528775193408,
+    "reason": "sl"
+  },
+  {
+    "type": "buy",
+    "pair": "SS/VIRTUAL",
+    "token_address": "0xa2d4Aec94BA0896d95ccC5451C9525b9ec0314De",
+    "virtual_spent": 5.0,
+    "tokens_bought": 13173.333363578791,
+    "entry_price": 0.00037955465499900273,
+    "tx_hash": "1cda3eed25584213cf6a9043b71048d1849db6fbd4c900b747b1da56da194fe0",
+    "timestamp": "2025-06-08T14:04:24.961677"
+  },
+  {
+    "type": "sell",
+    "pair": "SS/VIRTUAL",
+    "token_address": "0xa2d4Aec94BA0896d95ccC5451C9525b9ec0314De",
+    "tokens_sold": 13173.333363578791,
+    "tx_hash": "d6a13dc681c425091538856b0f95e365c330836c0694bf0ff59a967c8bbab66c",
+    "timestamp": "2025-06-08T14:05:09.636301",
+    "exit_price": 0.0003774580267344011,
+    "reason": "manual"
+  }
+]

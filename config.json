@@ -1,0 +1,20 @@
+{
+  "wallet_address": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+  "private_key": "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@",
+  "base_rpc": "https://mainnet.base.org",
+  "pair": "MAFIA/VIRTUAL",
+  "target_token_address": null,
+  "min_liquidity_usd": 100000.0,
+  "eth_amount": 0.0001,
+  "take_profit_percent": 30.0,
+  "stop_loss_percent": 10.0,
+  "trailing_stop_loss_percent": 10,
+  "telegram_token": "8172250146:AAGzoQ7YGCYKi-hUjj0YrggZCwa-WcqY2Vg5k",
+  "allowed_chat_id": 1151193863,
+  "quickintel_api_key": "x-qkntl-key",
+  "use_goplus_fallback": true,
+  "virtual_amount": 9.0,
+  "slippage_tolerance": 1.0,
+  "tsl_enabled": true,
+  "trailing_pct": 10.0
+}

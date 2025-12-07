@@ -115,7 +115,8 @@ Helps users understand runtime configurability
 Demonstrates how easily commands can be used
 
 
-<img width="1238" height="968" alt="Image" src="https://github.com/user-attachments/assets/8cebb434-a107-4d04-bfb0-ae8cd5fb94d4" />
+<img width="1245" height="962" alt="Image" src="https://github.com/user-attachments/assets/cbcbfa00-3d99-4ec9-a7aa-5ee8797ce751" />
+
 
 IMAGE 2 — Setting Pair and Virtual Amount
 
@@ -129,7 +130,7 @@ Shows real-time updates in chat
 
 Displays confirmation messages
 
-<img width="1239" height="962" alt="Image" src="https://github.com/user-attachments/assets/73ad791a-e3d7-4ce6-8730-9af5825ff792" />
+<img width="1239" height="962" alt="Image" src="https://github.com/user-attachments/assets/5d63fd23-c53a-45c9-b366-0dcac7d37f18" />
 
 IMAGE 3 — Starting Monitoring and Trade Trigger
 
@@ -143,7 +144,7 @@ Shows instant trade execution when pair detected
 
 Displays TX link and entry price
 
-<img width="1238" height="964" alt="Image" src="https://github.com/user-attachments/assets/31e216dc-1849-4f9e-ba66-8722e606278d" />
+<img width="1238" height="964" alt="Image" src="https://github.com/user-attachments/assets/378c350f-6c2e-49e0-bf02-a5dececbfe2a" />
 
 IMAGE 4 — Wallet Balance & Live Trade Details
 
@@ -157,7 +158,7 @@ Shows current trade details
 
 Confirms correct token accounting
 
-<img width="1245" height="962" alt="Image" src="https://github.com/user-attachments/assets/3a1f8f83-2c80-4573-98e3-3893d609aa56" />
+<img width="1231" height="893" alt="Image" src="https://github.com/user-attachments/assets/ab0bc5b6-627c-4887-9161-dc82634b9eda" />
 
 IMAGE 5 — Automatic TP / SL / TSL Execution
 
@@ -171,7 +172,7 @@ Shows profit capture
 
 Confirms exit reason
 
-<img width="1231" height="893" alt="Image" src="https://github.com/user-attachments/assets/10d6ced0-d88b-4dc8-a04f-a27cc35b9c54" />
+<img width="1238" height="968" alt="Image" src="https://github.com/user-attachments/assets/3ebd68c8-8b5a-447d-ab3e-02fae4e882ce" />
 
 ## 5. Configuration File Breakdown
 
